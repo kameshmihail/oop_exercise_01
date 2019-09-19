@@ -1,0 +1,5 @@
+1 funt 2 shillings 3 pennies + 1 funt 2 shillings 3 pennies = 2 funts 4 shillings 4 pennies
+2 funts 2 shillings 2 pennies / 2 funts 2 shillings 2 pennies = 1
+2 funts 3 shillings 6 pennies - 2 funts 2 shillings 8 pennies = 0 funts 0 shillings 10 pennies
+5 funts 4 shillings 2 pennies * 0 = 0 funts 0 shillings 0 pennies
+5 funts 4 shillings 2 pennies * 1 = 5 funts 4 shillings 2 pennies
